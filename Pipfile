@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 click = "*"
 python-whois = "*"
+whois = "*"
 
 [requires]
 python_version = "3.6"
