@@ -1,4 +1,3 @@
-#! python3
 # domaincheck.py
 # look up information about domain(s) and display report
 
