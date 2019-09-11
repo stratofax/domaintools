@@ -126,3 +126,5 @@ dmypy.json
 # other, non-Python files
 *.txt
 *.log
+.vscode
+
